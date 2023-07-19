@@ -17,3 +17,7 @@ https://github.com/anshumangaurav13/text2vid/assets/134204344/67a5013e-37b1-433b
 
 
 ## How to use:
+
+1. Make sure there is a file with text in it.
+2. Run ```text2vid.py```.
+3. Enter the filename.
