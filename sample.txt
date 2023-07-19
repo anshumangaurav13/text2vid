@@ -1,0 +1,2 @@
+This is a sample text to demonstrate the use of this script.
+Have fun using it.
