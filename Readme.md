@@ -2,7 +2,11 @@
 
 A simple python script to convert any text file into a video/gif. Example:
 
-out.mp4
+
+
+https://github.com/anshumangaurav13/text2vid/assets/134204344/67a5013e-37b1-433b-8f22-172b10de0c31
+
+
 
 ## Requirements:
  - [ffmpeg](https://ffmpeg.org/)
